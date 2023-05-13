@@ -1,5 +1,5 @@
 # Wave-MixEHR
-A project that extends MixEHR to incorporate ECG waveforms.
+A project that extends MixEHR to incorporate ECG waveforms, for the MIT course Machine Learning for Healthcare (6.7930)
 
 Original MixEHR repository: https://github.com/li-lab-mcgill/mixehr
 
