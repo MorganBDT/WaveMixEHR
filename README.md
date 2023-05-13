@@ -1,8 +1,9 @@
 # Wave-MixEHR
 A project that extends MixEHR to incorporate ECG waveforms
+Original MixEHR repository: https://github.com/li-lab-mcgill/mixehr
 
 # Data
-To download raw data from MIMIC-III, use
+To download raw data from MIMIC-III, obtain access privileges on PhysioNet and then use
 ```bash
 wget -r -N -c -np https://physionet.org/files/mimic3wdb-matched/1.0/
 wget -r -N -c -np --user <USERNAME> --ask-password https://physionet.org/files/mimiciii/1.4/
