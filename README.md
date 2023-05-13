@@ -1,5 +1,6 @@
 # Wave-MixEHR
 A project that extends MixEHR to incorporate ECG waveforms
+Original MixEHR repository: https://github.com/li-lab-mcgill/mixehr
 
 # Data
 To download raw data from MIMIC-III, use
